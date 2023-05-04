@@ -842,17 +842,13 @@
 		"filename_iconCard": "UI_AvatarIcon_Baizhu_Card",
 		"filename_sideIcon": "UI_AvatarIcon_Side_Baizhu",
 		"filename_gachaSplash": "UI_Gacha_AvatarImg_Baizhu",
-		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Baizhu",
-		"mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhu.png",
-		"mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Baizhu.png"
+		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Baizhu"
 	},
 	"kaveh": {
 		"filename_icon": "UI_AvatarIcon_Kaveh",
 		"filename_iconCard": "UI_AvatarIcon_Kaveh_Card",
 		"filename_sideIcon": "UI_AvatarIcon_Side_Kaveh",
 		"filename_gachaSplash": "UI_Gacha_AvatarImg_Kaveh",
-		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Kaveh",
-		"mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaveh.png",
-		"mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Kaveh.png"
+		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Kaveh"
 	}
 }
