@@ -1,5 +1,5 @@
 {
-	"aether": {
+        "aether": {
 		"image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png",
 		"card": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Traveler_Male_Card.jpg",
 		"portrait": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Character_Traveler_%28Male%29_Portrait.png",
@@ -836,5 +836,23 @@
 		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Mika",
 		"mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mika.png",
 		"mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mika.png"
+	},
+	"baizhu": {
+		"filename_icon": "UI_AvatarIcon_Baizhu",
+		"filename_iconCard": "UI_AvatarIcon_Baizhu_Card",
+		"filename_sideIcon": "UI_AvatarIcon_Side_Baizhu",
+		"filename_gachaSplash": "UI_Gacha_AvatarImg_Baizhu",
+		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Baizhu",
+		"mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhu.png",
+		"mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Baizhu.png"
+	},
+	"kaveh": {
+		"filename_icon": "UI_AvatarIcon_Kaveh",
+		"filename_iconCard": "UI_AvatarIcon_Kaveh_Card",
+		"filename_sideIcon": "UI_AvatarIcon_Side_Kaveh",
+		"filename_gachaSplash": "UI_Gacha_AvatarImg_Kaveh",
+		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Kaveh",
+		"mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaveh.png",
+		"mihoyo_sideIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Kaveh.png"
 	}
 }
