@@ -857,5 +857,26 @@
 		"filename_sideIcon": "UI_AvatarIcon_Side_Momoka",
 		"filename_gachaSplash": "UI_Gacha_AvatarImg_Momoka",
 		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Momoka"
+	},
+	"freminet": {
+		"filename_icon": "UI_AvatarIcon_Freminet",
+		"filename_iconCard": "UI_AvatarIcon_Freminet_Card",
+		"filename_sideIcon": "UI_AvatarIcon_Side_Freminet",
+		"filename_gachaSplash": "UI_Gacha_AvatarImg_Freminet",
+		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Freminet"
+	},
+	"lyney": {
+		"filename_icon": "UI_AvatarIcon_Liney",
+		"filename_iconCard": "UI_AvatarIcon_Liney_Card",
+		"filename_sideIcon": "UI_AvatarIcon_Side_Liney",
+		"filename_gachaSplash": "UI_Gacha_AvatarImg_Liney",
+		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Liney"
+	},
+	"lynette": {
+		"filename_icon": "UI_AvatarIcon_Linette",
+		"filename_iconCard": "UI_AvatarIcon_Linette_Card",
+		"filename_sideIcon": "UI_AvatarIcon_Side_Linette",
+		"filename_gachaSplash": "UI_Gacha_AvatarImg_Linette",
+		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Linette"
 	}
 }
