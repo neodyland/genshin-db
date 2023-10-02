@@ -878,5 +878,12 @@
 		"filename_sideIcon": "UI_AvatarIcon_Side_Linette",
 		"filename_gachaSplash": "UI_Gacha_AvatarImg_Linette",
 		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Linette"
+	},
+	"neuvillette": {
+		"filename_icon": "UI_AvatarIcon_Neuvillette",
+		"filename_iconCard": "UI_AvatarIcon_Neuvillette_Card",
+		"filename_sideIcon": "UI_AvatarIcon_Side_Neuvillette",
+		"filename_gachaSplash": "UI_Gacha_AvatarImg_Neuvillette",
+		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Neuvillette"
 	}
 }
