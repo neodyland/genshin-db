@@ -885,5 +885,12 @@
 		"filename_sideIcon": "UI_AvatarIcon_Side_Neuvillette",
 		"filename_gachaSplash": "UI_Gacha_AvatarImg_Neuvillette",
 		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Neuvillette"
+	},
+	"wriothesley": {
+		"filename_icon": "UI_AvatarIcon_Wriothesley",
+		"filename_iconCard": "UI_AvatarIcon_Wriothesley_Card",
+		"filename_sideIcon": "UI_AvatarIcon_Side_Wriothesley",
+		"filename_gachaSplash": "UI_Gacha_AvatarImg_Wriothesley",
+		"filename_gachaSlice": "UI_Gacha_AvatarIcon_Wriothesley"
 	}
 }
